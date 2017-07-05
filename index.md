@@ -12,5 +12,5 @@ A: I'm working on a suite of convenience functions that I use to ease my day-to-
 * My tidy_tableone() function, which summarizes a dataset and produces a Markdown, HTML, or $\latex$ table with a single function call.  
 * My present_mdl() function, which formats and presents a Markdown, HTML, or $\LaTeX$ summary for a variety of different kinds of regression models. 
 
-Both of these can be found in my package called trahelyk, which is very much a work in progress. I tinker with it here and there as I'm using it, so development is steady by slow. I'm trying to adapt it to the tidyverse mindset and to make it use tidyverse tools and principles wherever possible.
+Both of these can be found in my package [trahelyk](https://github.com/trahelyk/trahelyk_pkg), which is very much a work in progress. I tinker with it here and there as I'm using it, so development is steady by slow. I'm trying to adapt it to the tidyverse mindset and to make it use tidyverse tools and principles wherever possible.
 
