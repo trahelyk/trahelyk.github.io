@@ -1,4 +1,6 @@
-This is a landing page for trahelyk.com. Do you have questions?
+# trahelyk.com
+
+## This is a landing page for trahelyk.com. Do you have questions?
 
 Q: What means "trahelyk?" 
 A: Nothing. It's just my name backwards.
