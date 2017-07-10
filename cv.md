@@ -34,7 +34,6 @@ Overall GPA: 3.6
 
 ### Oregon Health & Science University, Biostatistics & Design Program (BDP) ###
 Statistical Consultant, 2015 to Present
-
 * Host drop-in sessions to provide introductory statistical consulting to researchers from all hospital departments
 * Assist investigators with study design
 * Perform a variety of statistical analyses
@@ -54,82 +53,28 @@ Biostatistician, 2016 to Present
 
 ### Oregon Health & Science University, Dept of Surgery ### 
 Biostatistician, 2015 to 2016
-
 * Mentor surgical research residents in study design and data analysis
+* Perform a wide variety of statistical analyses
+* Provide statistical consulting and support for all divisions of surgery
+* Collaborate on posters, abstracts, and manuscripts
 
-     $\cdot$ 
+### Portland Veterans Administration Medical Center ###
+Program Analyst, 2013 to 2014
+* Performed data management and data mining from the Veterans Administration’s national administrative database, using SAS, Stata, R, and T-SQL
+* Produced analysis-ready datasets and performed descriptive analyses
+* Collaborated on writing study manuscripts
 
-    :   Perform a wide variety of statistical analyses
+### RS Medical ###
+Data Manager/Technical Writer, 2004 to 2013
+* Prepared and validated database extractions to support statistical analyses and data audits
+* Performed study-end and exploratory statistical analyses
+* Wrote manuscripts, reports of study results, and literature reviews
+* Designed case report forms and programmed electronic data capture (EDC) systems
+* Wrote test plans and validated software and ﬁrmware for medical devices
+* Wrote study protocols in collaboration with subject matter experts
 
-     $\cdot$ 
-
-    :   Provide statistical consulting and support for all divisions of
-        surgery
-
-     $\cdot$ 
-
-    :   Collaborate on posters, abstracts, and manuscripts
-
-    <span class="cmbx-10x-x-109">Portland Veterans Administration
-    Medical Center </span><span class="cmti-10x-x-109">2013 to
-    2014</span>\
-    <span class="cmti-10x-x-109">Program Analyst Portland, OR</span>
-
-     $\cdot$ 
-
-    :   Performed data management and data mining from the Veterans
-        Administration’s national administrative database, using SAS,
-        Stata, R, and T-SQL
-
-     $\cdot$ 
-
-    :   Produced analysis-ready datasets and performed descriptive
-        analyses
-
-     $\cdot$ 
-
-    :   Collaborated on writing study manuscripts
-
-    <span class="cmbx-10x-x-109">RS Medical </span><span
-    class="cmti-10x-x-109">2004 to 2013</span>\
-    <span class="cmti-10x-x-109">Data Manager/Technical Writer
-    Vancouver, WA</span>
-
-     $\cdot$ 
-
-    :   Prepared and validated database extractions to support
-        statistical analyses and data audits
-
-     $\cdot$ 
-
-    :   Performed study-end and exploratory statistical analyses
-
-     $\cdot$ 
-
-    :   Wrote manuscripts, reports of study results, and literature
-        reviews
-
-     $\cdot$ 
-
-    :   Designed case report forms and programmed electronic data
-        capture (EDC) systems
-
-     $\cdot$ 
-
-    :   Wrote test plans and validated software and ﬁrmware for medical
-        devices
-
-     $\cdot$ 
-
-    :   Wrote study protocols in collaboration with subject matter
-        experts
-
-<span class="cmbx-10x-x-109">PUBLICATIONS</span>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
-
-:   Assessment of three point-of-care platelet function assays in adult
+## PUBLICATIONS ##
+Assessment of three point-of-care platelet function assays in adult
     trauma patients. Connelly CR, Yonge JD, McCully SP, <span
     class="cmbx-10x-x-109">Hart KD</span>, Hilliard TC, Lape DE, Watson
     JJ, Rick B, Houser B, Deloughery TG, Schreiber MA, Kiraly LN. <span
@@ -237,15 +182,5 @@ Biostatistician, 2015 to 2016
     class="cmti-10x-x-109">Ann Surg Oncol</span>. 2015; 22 Suppl
     3:573–579.\
 
-<span class="cmbx-10x-x-109">MEMBERSHIPS</span>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
-
-:   
-
- 
-
-:   American Statistical Association (ASA) since 2012
-
-
+## MEMBERSHIPS ##
+American Statistical Association (ASA) since 2012
