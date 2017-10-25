@@ -1,4 +1,4 @@
-Foo.
+Foo!
 
 Hi. This is a landing page for trahelyk.com, which is my personal domain. My name is Kyle Hart, and I'm a biostatistician in OB/GYN at [Oregon Health & Science University](http://www.ohsu.edu). I also am available for moonlighting. For more about me and what I've done, take a look at [my CV](cv.md).
 
