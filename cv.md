@@ -1,4 +1,8 @@
-[home](index.md)
+---
+layout: page
+title: CV
+permalink: /cv/
+---
 
 # KYLE HART #
 
@@ -162,5 +166,3 @@ rectal cancer. Wieghard NE, **Hart KD**, Herzig DO, Lu KC, Tsikitis VL. *Ann Sur
 
 ## MEMBERSHIPS ##
 American Statistical Association (ASA) since 2012
-
-[home](index.md)
