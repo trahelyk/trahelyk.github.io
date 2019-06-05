@@ -38,18 +38,6 @@ Overall GPA: 3.6
 
 ## RELEVANT EXPERIENCE ##
 
-### Oregon Health & Science University, Biostatistics & Design Program (BDP) ###
-Statistical Consultant, 2015 to Present
-* Host drop-in sessions to provide introductory statistical consulting to researchers from all hospital departments
-* Assist investigators with study design
-* Perform a variety of statistical analyses
-* Participate in BDP outreach events
-
-### World Journal of Surgery ###
-Statistical Consultat, 2015 to Present
-* Serve on the editorial board of the journal
-* Review manuscript submissions as requested by the Editor-in-Chief
-
 ### Oregon Health & Science University, Dept of Obstetrics and Gynecology ###
 Biostatistician, 2016 to Present
 * Perform a wide variety of statistical analyses, including explanatory and predictive models and machine learning
@@ -63,6 +51,18 @@ Biostatistician, 2015 to 2016
 * Perform a wide variety of statistical analyses
 * Provide statistical consulting and support for all divisions of surgery
 * Collaborate on posters, abstracts, and manuscripts
+
+### Oregon Health & Science University, Biostatistics & Design Program (BDP) ###
+Statistical Consultant, 2015 to Present
+* Host drop-in sessions to provide introductory statistical consulting to researchers from all hospital departments
+* Assist investigators with study design
+* Perform a variety of statistical analyses
+* Participate in BDP outreach events
+
+### World Journal of Surgery ###
+Statistical Consultat, 2015 to Present
+* Serve on the editorial board of the journal
+* Review manuscript submissions as requested by the Editor-in-Chief
 
 ### Portland Veterans Administration Medical Center ###
 Program Analyst, 2013 to 2014
