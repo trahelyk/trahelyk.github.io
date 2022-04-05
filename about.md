@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there. I'm Kyle. Why are you here? What would you like to know? Do you want some facts about me?
+Hi there. I'm Kyle. Why are you here? Do you want some facts about me?
 
 ***
 
